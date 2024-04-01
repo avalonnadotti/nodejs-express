@@ -17,7 +17,7 @@ services:
       - PGUSER=postgres
       - PGHOST=db
       - PGPASSWORD=postgres
-      - PGDATABASE=postgres
+      - PGDATABASE=codelab
       - PGPORT=5432
 
   db:
